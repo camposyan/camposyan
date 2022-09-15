@@ -1,6 +1,6 @@
 ### Olá mundo ! Sou Yan Campos, prazer em conhecê-lo. 🖐🏽
 
-- 💻 Trabalho com backend (PHP) e estou migrando aos poucos pro frontend
+- 💻 Sou programador frontend com experiência em HTML, CSS e JS
 - 📖 Estudando ReactJS, NodeJS e Typescript
 
 <div align="center">
