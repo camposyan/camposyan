@@ -1,7 +1,6 @@
-### Olá mundo ! Sou Yan Campos, prazer em conhecê-lo. 🖐🏽
+### Olá mundo ! Sou Yan. 🖐🏽
 
-- 💻 Sou programador frontend com experiência em HTML, CSS e JS
-- 📖 Estudando ReactJS, NodeJS e Typescript
+- 💻 Sou programador frontend com experiência em React, Typescript e Next JS
 
 <div align="center">
   <a href="https://github.com/camposyan">
